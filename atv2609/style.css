@@ -1,0 +1,35 @@
+body{
+    color: white;
+    background-image: url(./assets/background.png);
+    background-repeat: no-repeat; 
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    text-decoration: none;
+}
+header{
+    background-color: black;
+    padding: 3vh;
+}
+main{
+    justify-content: center;
+    padding: 2rem;
+    margin: 2rem auto;
+    max-width: 800px;
+    background-color:black;
+    color: white;
+    border-radius: 30px;
+}
+h1 a li{
+    margin: 1rem;
+    text-decoration: none;
+}
+.cont1{
+    margin: 2rem;
+    color: white;
+}
+img{
+    margin-left: 80px;
+    width: 40vw;
+    height: 40vh;
+}
